@@ -6,4 +6,4 @@ This is an ongoing project where I try to experiment with different technologies
  - PIL
 
 ## Sample Image:
-![title](art_1.png)
+![title](Designs/art_1.png)
